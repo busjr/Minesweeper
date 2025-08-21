@@ -1,4 +1,5 @@
 import os
+import sys
 import random
 import time
 from os import name
@@ -64,7 +65,7 @@ class App(ct.CTk):
             border_width=BORDER_WIDTH_BTN,
             width=GAME_CLASSIC_WIDTH_BTN,
             height=GAME_CLASSIC_HEIGHT_BTN,
-            text="Open 9x9x10 (classic)", 
+            text=GAME_CLASSIC_TEXT, 
             command=lambda: self.open_second_window(width=288, height=318, column=9, line=9, bomb=10)
         )
         self.btn_open_classic.grid(row=0, column=0, pady=5, padx=5)
@@ -76,7 +77,7 @@ class App(ct.CTk):
             border_width=BORDER_WIDTH_BTN,
             width=GAME_CLASSIC_WIDTH_BTN,
             height=GAME_CLASSIC_HEIGHT_BTN,
-            text="Open 16x16x40 (medium)", 
+            text=GAME_MEDIUM_TEXT, 
             command=lambda: self.open_second_window(width=512, height=543, column=16, line=16, bomb=40)
         )
         self.btn_open_medium.grid(row=1, column=0, pady=5, padx=5)
