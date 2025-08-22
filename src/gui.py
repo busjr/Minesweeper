@@ -130,7 +130,7 @@ class MinesweeperGameGUI(ct.CTkToplevel):
             master=self,
             height=HEIGHT_LABEL_STATUS,
             width=WIDTH_LABEL_STATUS,
-            corner_radius=10,
+            corner_radius=CORNER_RADIUS_LABEL_STATUS,
             fg_color=FG_COLOR_LABEL,
             text="(-_-)"
         )

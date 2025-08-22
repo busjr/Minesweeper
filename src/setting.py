@@ -57,9 +57,9 @@ WIDTH_LABEL_TIME = 62           # Time label width
 HEIGHT_LABEL_TIME = 30          # Time label height
 
 
-WIDTH_LABEL_STATUS = 40         # Status label width
+WIDTH_LABEL_STATUS = 170         # Status label width
 HEIGHT_LABEL_STATUS = 30        # Status label height
-CORNER_RADIUS_STATUS = 0        # Status label corner radius
+CORNER_RADIUS_LABEL_STATUS = 0        # Status label corner radius
 
 
 
