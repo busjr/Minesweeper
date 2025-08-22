@@ -11,3 +11,22 @@ The application is a "Minesweeper" game. When the game starts, the user is promp
 
 - Game field with timer, status, and return button:
 <img width="288" height="318" alt="main_YFqtiNwWiv" src="https://github.com/user-attachments/assets/97052781-0a88-46c9-a3ac-de84e9fe2c14" />
+
+## RUN
+
+1. Downloading and running the project from source:
+
+    - Download the project from the repository
+
+    - Install the required library
+```bash pip install customtkinter==5.2.2 ```
+
+    - Run the application with the command
+
+```bash python main.py ```
+
+2. Running the pre-built exe file:
+
+    - Go to the [Releases]() section of the project
+
+    - Download the latest Minesweeper.exe file
