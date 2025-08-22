@@ -26,6 +26,7 @@
 
 2. Запуск готового exe-файла:
 
-    - Перейдите в раздел [Releases]() проекта
+    - Перейдите в раздел [Releases](https://github.com/busjr/Minesweeper/releases) проекта
 
     - Скачайте последний файл Minesweeper.exe
+
