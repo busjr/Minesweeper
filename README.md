@@ -27,6 +27,6 @@ The application is a "Minesweeper" game. When the game starts, the user is promp
 
 2. Running the pre-built exe file:
 
-    - Go to the [Releases]() section of the project
+    - Go to the [Releases](https://github.com/busjr/Minesweeper/releases) section of the project
 
     - Download the latest Minesweeper.exe file
