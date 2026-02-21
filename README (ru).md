@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Проект был создан из интереса к разработке алгоритма для игры, не иначе.
+
 # Minesweeper
 
 [RU Русский](<README (ru).md>) | [EN English](<README.md>)
@@ -29,4 +32,5 @@
     - Перейдите в раздел [Releases](https://github.com/busjr/Minesweeper/releases) проекта
 
     - Скачайте последний файл Minesweeper.exe
+
 
