@@ -1,3 +1,6 @@
+> [!NOTE]  
+> The project was created out of interest in developing an algorithm for the game, nothing less.
+
 # Minesweeper
 
 [RU Русский](<README (ru).md>) | [EN English](<README.md>)
